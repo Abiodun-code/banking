@@ -7,25 +7,25 @@ function Body(props) {
             <p>We leverage Open Banking to turn your account into financial hub. Control your finances like never before</p>
             <div className='card'>
                 <div className='card-body'>
-                    <img src='/images/icon-online.svg'/>
+                    <img src='/images/icon-online.svg' alt=""/>
                     <h3>Online Banking</h3>
                     <p>Our web and mobile applications allow you to keep track of your finances wherever you are in the world.</p>
                 </div>
 
                 <div className='card-body'>
-                    <img src='/images/icon-budgeting.svg'/>
+                    <img src='/images/icon-budgeting.svg' alt=""/>
                     <h3>Simple Budgeting</h3>
                     <p>See exactly where your money goes each month. Receive  notifications when you're close to hitting your limits.</p>
                 </div>
 
                 <div className='card-body'>
-                    <img src='/images/icon-onboarding.svg'/>
+                    <img src='/images/icon-onboarding.svg' alt=""/>
                     <h3>Fast Onboarding</h3>
                     <p>We dont do branches. Open your account in minutes online and start taking control of your finances right away.</p>
                 </div>
 
                 <div className='card-body'>
-                    <img src='/images/icon-api.svg'/>
+                    <img src='/images/icon-api.svg' alt=""/>
                     <h3 className='h3'>Open Api</h3>
                     <p>Manages your savings, investments, pension from one accounts. Tracking your money has never been easier.</p>
                 </div>

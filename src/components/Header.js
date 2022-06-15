@@ -12,11 +12,11 @@ function Header(props) {
                     <Link to='/' className = 'invite'><li>Request Invite</li></Link>
                 </div>
                 <div className='right'>
-                    <img src='/images/image-mockups.png' />
+                    <img src='/images/image-mockups.png' alt="" />
                 </div>
 
                 <div className='left-mobile'>
-                    <img src='/images/image-mockups.png' />
+                    <img src='/images/image-mockups.png' alt="" />
                 </div>
                 <div className='right-mobile'>
                     <h2>Next generation digital banking</h2>

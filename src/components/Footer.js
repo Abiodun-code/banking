@@ -5,12 +5,12 @@ function Footer(props) {
         <div className='footer'>
             <div className='shift'>
                 <div className='left'>
-                    <img src='/images/logo.svg' className='img' />
+                    <img src='/images/logo.svg' className='img'  alt=""/>
                 <div className='left-image'>
-                    <img src='/images/icon-facebook.svg' className='footer-image' />
-                    <img src='/images/icon-youtube.svg' className='footer-image' />
-                    <img src='/images/icon-Twitter.svg' className='footer-image' />
-                    <img src='/images/icon-pinterest.svg' className='footer-image' />
+                    <img src='/images/icon-facebook.svg' className='footer-image' alt="" />
+                    <img src='/images/icon-youtube.svg' className='footer-image' alt="" />
+                    <img src='/images/icon-Twitter.svg' className='footer-image' alt="" />
+                    <img src='/images/icon-pinterest.svg' className='footer-image' alt=""/>
                 </div>
                 </div>
                 <div className='center'>
